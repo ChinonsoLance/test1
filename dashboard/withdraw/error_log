@@ -1,0 +1,2 @@
+[09-May-2024 07:59:46 UTC] PHP Warning:  Undefined array key "amount" in /home/bitasset/public_html/dashboard/withdraw/paypal.php on line 6
+[09-May-2024 07:59:46 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/withdraw/variables.php on line 102

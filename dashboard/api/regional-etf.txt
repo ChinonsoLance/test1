@@ -1,0 +1,1 @@
+[{"change_p":-2.582,"close":20.263,"code":"FLCH"},{"change_p":-0.781,"close":37.61,"code":"SPEU"}]

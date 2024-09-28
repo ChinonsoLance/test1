@@ -1,0 +1,944 @@
+[26-Aug-2024 21:46:18 UTC] PHP Warning:  Undefined array key "logout" in /home/bitasset/public_html/dashboard/auth.php on line 3
+[26-Aug-2024 22:04:46 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 111
+[26-Aug-2024 22:04:46 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/variables.php on line 113
+[26-Aug-2024 22:04:46 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 116
+[26-Aug-2024 22:04:46 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 119
+[26-Aug-2024 22:04:46 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 122
+[26-Aug-2024 22:04:46 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 125
+[26-Aug-2024 22:04:46 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/variables.php on line 128
+[26-Aug-2024 22:04:46 UTC] PHP Warning:  Undefined variable $image in /home/bitasset/public_html/dashboard/header.php on line 232
+[26-Aug-2024 22:04:46 UTC] PHP Warning:  Undefined variable $image in /home/bitasset/public_html/dashboard/header.php on line 241
+[26-Aug-2024 22:04:46 UTC] PHP Warning:  Undefined variable $ver_status in /home/bitasset/public_html/dashboard/header.php on line 246
+[26-Aug-2024 22:04:46 UTC] PHP Warning:  Undefined variable $activated in /home/bitasset/public_html/dashboard/index.php on line 106
+[26-Aug-2024 22:04:46 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 201
+[26-Aug-2024 22:04:46 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 237
+[26-Aug-2024 22:04:46 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 272
+[26-Aug-2024 22:04:46 UTC] PHP Warning:  Undefined variable $total_deposited in /home/bitasset/public_html/dashboard/index.php on line 272
+[26-Aug-2024 22:04:46 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 458
+[26-Aug-2024 22:04:46 UTC] PHP Warning:  Undefined variable $ref_bonus in /home/bitasset/public_html/dashboard/index.php on line 458
+[26-Aug-2024 22:04:46 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/index.php on line 550
+[26-Aug-2024 22:04:46 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/index.php on line 632
+[26-Aug-2024 22:04:46 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[26-Aug-2024 22:04:46 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[26-Aug-2024 22:04:46 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[26-Aug-2024 22:04:46 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[26-Aug-2024 22:04:46 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[26-Aug-2024 22:04:46 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[26-Aug-2024 22:04:46 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[26-Aug-2024 22:04:46 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[26-Aug-2024 22:04:46 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[26-Aug-2024 22:04:46 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[26-Aug-2024 22:04:46 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[26-Aug-2024 22:04:46 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[26-Aug-2024 22:04:46 UTC] PHP Warning:  Undefined array key "logout" in /home/bitasset/public_html/dashboard/auth.php on line 3
+[26-Aug-2024 22:08:25 UTC] PHP Warning:  Undefined array key "logout" in /home/bitasset/public_html/dashboard/auth.php on line 3
+[26-Aug-2024 22:08:26 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[26-Aug-2024 22:08:33 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[26-Aug-2024 22:08:50 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[26-Aug-2024 22:10:02 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[26-Aug-2024 22:10:06 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[26-Aug-2024 22:10:13 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[26-Aug-2024 22:12:11 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[26-Aug-2024 22:13:02 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[26-Aug-2024 22:13:06 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[26-Aug-2024 22:13:13 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[26-Aug-2024 22:13:57 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[26-Aug-2024 22:14:04 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[26-Aug-2024 22:15:17 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[26-Aug-2024 22:27:10 UTC] PHP Warning:  Undefined array key "logout" in /home/bitasset/public_html/dashboard/auth.php on line 3
+[26-Aug-2024 22:27:10 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[26-Aug-2024 22:27:14 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[26-Aug-2024 22:27:23 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[26-Aug-2024 22:27:41 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[26-Aug-2024 22:27:42 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[27-Aug-2024 02:38:53 UTC] PHP Warning:  Undefined array key "logout" in /home/bitasset/public_html/dashboard/auth.php on line 3
+[27-Aug-2024 02:38:53 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[27-Aug-2024 02:39:00 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[27-Aug-2024 02:39:05 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[27-Aug-2024 02:39:11 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[27-Aug-2024 02:39:11 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[27-Aug-2024 08:24:06 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 111
+[27-Aug-2024 08:24:06 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/variables.php on line 113
+[27-Aug-2024 08:24:06 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 116
+[27-Aug-2024 08:24:06 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 119
+[27-Aug-2024 08:24:06 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 122
+[27-Aug-2024 08:24:06 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 125
+[27-Aug-2024 08:24:06 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/variables.php on line 128
+[27-Aug-2024 08:24:06 UTC] PHP Warning:  Undefined variable $image in /home/bitasset/public_html/dashboard/header.php on line 232
+[27-Aug-2024 08:24:06 UTC] PHP Warning:  Undefined variable $image in /home/bitasset/public_html/dashboard/header.php on line 241
+[27-Aug-2024 08:24:06 UTC] PHP Warning:  Undefined variable $ver_status in /home/bitasset/public_html/dashboard/header.php on line 246
+[27-Aug-2024 08:24:06 UTC] PHP Warning:  Undefined variable $activated in /home/bitasset/public_html/dashboard/index.php on line 106
+[27-Aug-2024 08:24:06 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 201
+[27-Aug-2024 08:24:06 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 237
+[27-Aug-2024 08:24:06 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 272
+[27-Aug-2024 08:24:06 UTC] PHP Warning:  Undefined variable $total_deposited in /home/bitasset/public_html/dashboard/index.php on line 272
+[27-Aug-2024 08:24:06 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 458
+[27-Aug-2024 08:24:06 UTC] PHP Warning:  Undefined variable $ref_bonus in /home/bitasset/public_html/dashboard/index.php on line 458
+[27-Aug-2024 08:24:06 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/index.php on line 550
+[27-Aug-2024 08:24:06 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/index.php on line 632
+[27-Aug-2024 08:24:06 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[27-Aug-2024 08:24:06 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[27-Aug-2024 08:24:06 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[27-Aug-2024 08:24:06 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[27-Aug-2024 08:24:06 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[27-Aug-2024 08:24:06 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[27-Aug-2024 08:24:06 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[27-Aug-2024 08:24:06 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[27-Aug-2024 08:24:06 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[27-Aug-2024 08:24:06 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[27-Aug-2024 08:24:06 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[27-Aug-2024 08:24:06 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[27-Aug-2024 08:24:06 UTC] PHP Warning:  Undefined array key "logout" in /home/bitasset/public_html/dashboard/auth.php on line 3
+[27-Aug-2024 08:24:22 UTC] PHP Warning:  Undefined array key "logout" in /home/bitasset/public_html/dashboard/auth.php on line 3
+[27-Aug-2024 08:24:22 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[27-Aug-2024 08:25:35 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[27-Aug-2024 08:26:06 UTC] PHP Warning:  Undefined array key "logout" in /home/bitasset/public_html/dashboard/auth.php on line 3
+[27-Aug-2024 08:26:06 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[27-Aug-2024 08:52:42 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 111
+[27-Aug-2024 08:52:42 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/variables.php on line 113
+[27-Aug-2024 08:52:42 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 116
+[27-Aug-2024 08:52:42 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 119
+[27-Aug-2024 08:52:42 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 122
+[27-Aug-2024 08:52:42 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 125
+[27-Aug-2024 08:52:42 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/variables.php on line 128
+[27-Aug-2024 08:52:42 UTC] PHP Warning:  Undefined variable $image in /home/bitasset/public_html/dashboard/header.php on line 232
+[27-Aug-2024 08:52:42 UTC] PHP Warning:  Undefined variable $image in /home/bitasset/public_html/dashboard/header.php on line 241
+[27-Aug-2024 08:52:42 UTC] PHP Warning:  Undefined variable $ver_status in /home/bitasset/public_html/dashboard/header.php on line 246
+[27-Aug-2024 08:52:42 UTC] PHP Warning:  Undefined variable $activated in /home/bitasset/public_html/dashboard/index.php on line 106
+[27-Aug-2024 08:52:42 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 201
+[27-Aug-2024 08:52:42 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 237
+[27-Aug-2024 08:52:42 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 272
+[27-Aug-2024 08:52:42 UTC] PHP Warning:  Undefined variable $total_deposited in /home/bitasset/public_html/dashboard/index.php on line 272
+[27-Aug-2024 08:52:42 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 458
+[27-Aug-2024 08:52:42 UTC] PHP Warning:  Undefined variable $ref_bonus in /home/bitasset/public_html/dashboard/index.php on line 458
+[27-Aug-2024 08:52:42 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/index.php on line 550
+[27-Aug-2024 08:52:42 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/index.php on line 632
+[27-Aug-2024 08:52:42 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[27-Aug-2024 08:52:42 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[27-Aug-2024 08:52:42 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[27-Aug-2024 08:52:42 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[27-Aug-2024 08:52:42 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[27-Aug-2024 08:52:42 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[27-Aug-2024 08:52:42 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[27-Aug-2024 08:52:42 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[27-Aug-2024 08:52:42 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[27-Aug-2024 08:52:42 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[27-Aug-2024 08:52:42 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[27-Aug-2024 08:52:42 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[27-Aug-2024 08:52:42 UTC] PHP Warning:  Undefined array key "logout" in /home/bitasset/public_html/dashboard/auth.php on line 3
+[27-Aug-2024 08:52:58 UTC] PHP Warning:  Undefined array key "logout" in /home/bitasset/public_html/dashboard/auth.php on line 3
+[27-Aug-2024 08:52:58 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[27-Aug-2024 08:53:04 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[27-Aug-2024 08:53:08 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[27-Aug-2024 08:53:12 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 111
+[27-Aug-2024 08:53:12 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/variables.php on line 113
+[27-Aug-2024 08:53:12 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 116
+[27-Aug-2024 08:53:12 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 119
+[27-Aug-2024 08:53:12 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 122
+[27-Aug-2024 08:53:12 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 125
+[27-Aug-2024 08:53:12 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/variables.php on line 128
+[27-Aug-2024 08:53:12 UTC] PHP Warning:  Undefined variable $image in /home/bitasset/public_html/dashboard/header.php on line 232
+[27-Aug-2024 08:53:12 UTC] PHP Warning:  Undefined variable $image in /home/bitasset/public_html/dashboard/header.php on line 241
+[27-Aug-2024 08:53:12 UTC] PHP Warning:  Undefined variable $ver_status in /home/bitasset/public_html/dashboard/header.php on line 246
+[27-Aug-2024 08:53:12 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/deposits.php on line 33
+[27-Aug-2024 08:53:12 UTC] PHP Warning:  Undefined array key "logout" in /home/bitasset/public_html/dashboard/auth.php on line 3
+[27-Aug-2024 08:53:12 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[27-Aug-2024 08:53:16 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 111
+[27-Aug-2024 08:53:16 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/variables.php on line 113
+[27-Aug-2024 08:53:16 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 116
+[27-Aug-2024 08:53:16 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 119
+[27-Aug-2024 08:53:16 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 122
+[27-Aug-2024 08:53:16 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 125
+[27-Aug-2024 08:53:16 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/variables.php on line 128
+[27-Aug-2024 08:53:16 UTC] PHP Warning:  Undefined variable $image in /home/bitasset/public_html/dashboard/header.php on line 232
+[27-Aug-2024 08:53:16 UTC] PHP Warning:  Undefined variable $image in /home/bitasset/public_html/dashboard/header.php on line 241
+[27-Aug-2024 08:53:16 UTC] PHP Warning:  Undefined variable $ver_status in /home/bitasset/public_html/dashboard/header.php on line 246
+[27-Aug-2024 08:53:16 UTC] PHP Warning:  Undefined variable $currency in /home/bitasset/public_html/dashboard/fund-wallet.php on line 82
+[27-Aug-2024 08:53:16 UTC] PHP Warning:  Undefined array key "logout" in /home/bitasset/public_html/dashboard/auth.php on line 3
+[27-Aug-2024 08:53:19 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[27-Aug-2024 08:54:28 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 111
+[27-Aug-2024 08:54:28 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/variables.php on line 113
+[27-Aug-2024 08:54:28 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 116
+[27-Aug-2024 08:54:28 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 119
+[27-Aug-2024 08:54:28 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 122
+[27-Aug-2024 08:54:28 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 125
+[27-Aug-2024 08:54:28 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/variables.php on line 128
+[27-Aug-2024 08:54:28 UTC] PHP Warning:  Undefined variable $image in /home/bitasset/public_html/dashboard/header.php on line 232
+[27-Aug-2024 08:54:28 UTC] PHP Warning:  Undefined variable $image in /home/bitasset/public_html/dashboard/header.php on line 241
+[27-Aug-2024 08:54:28 UTC] PHP Warning:  Undefined variable $ver_status in /home/bitasset/public_html/dashboard/header.php on line 246
+[27-Aug-2024 08:54:28 UTC] PHP Warning:  Undefined variable $currency in /home/bitasset/public_html/dashboard/fund-wallet.php on line 82
+[27-Aug-2024 08:54:28 UTC] PHP Warning:  Undefined array key "logout" in /home/bitasset/public_html/dashboard/auth.php on line 3
+[27-Aug-2024 08:54:36 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 111
+[27-Aug-2024 08:54:36 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/variables.php on line 113
+[27-Aug-2024 08:54:36 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 116
+[27-Aug-2024 08:54:36 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 119
+[27-Aug-2024 08:54:36 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 122
+[27-Aug-2024 08:54:36 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 125
+[27-Aug-2024 08:54:36 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/variables.php on line 128
+[27-Aug-2024 08:54:36 UTC] PHP Warning:  Undefined variable $image in /home/bitasset/public_html/dashboard/header.php on line 232
+[27-Aug-2024 08:54:36 UTC] PHP Warning:  Undefined variable $image in /home/bitasset/public_html/dashboard/header.php on line 241
+[27-Aug-2024 08:54:36 UTC] PHP Warning:  Undefined variable $ver_status in /home/bitasset/public_html/dashboard/header.php on line 246
+[27-Aug-2024 08:54:36 UTC] PHP Warning:  Undefined variable $currency in /home/bitasset/public_html/dashboard/fund-wallet.php on line 82
+[27-Aug-2024 08:54:36 UTC] PHP Warning:  Undefined array key "logout" in /home/bitasset/public_html/dashboard/auth.php on line 3
+[27-Aug-2024 09:19:35 UTC] PHP Warning:  Undefined array key "logout" in /home/bitasset/public_html/dashboard/auth.php on line 3
+[27-Aug-2024 09:19:35 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[27-Aug-2024 09:19:38 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[27-Aug-2024 09:19:48 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[27-Aug-2024 09:20:12 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[27-Aug-2024 09:20:17 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[27-Aug-2024 09:20:53 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[27-Aug-2024 09:20:57 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[27-Aug-2024 09:21:11 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[27-Aug-2024 09:21:12 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[27-Aug-2024 11:07:48 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 111
+[27-Aug-2024 11:07:48 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/variables.php on line 113
+[27-Aug-2024 11:07:48 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 116
+[27-Aug-2024 11:07:48 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 119
+[27-Aug-2024 11:07:48 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 122
+[27-Aug-2024 11:07:48 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 125
+[27-Aug-2024 11:07:48 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/variables.php on line 128
+[27-Aug-2024 11:07:48 UTC] PHP Warning:  Undefined variable $image in /home/bitasset/public_html/dashboard/header.php on line 232
+[27-Aug-2024 11:07:48 UTC] PHP Warning:  Undefined variable $image in /home/bitasset/public_html/dashboard/header.php on line 241
+[27-Aug-2024 11:07:48 UTC] PHP Warning:  Undefined variable $ver_status in /home/bitasset/public_html/dashboard/header.php on line 246
+[27-Aug-2024 11:07:48 UTC] PHP Warning:  Undefined variable $activated in /home/bitasset/public_html/dashboard/index.php on line 106
+[27-Aug-2024 11:07:48 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 201
+[27-Aug-2024 11:07:48 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 237
+[27-Aug-2024 11:07:48 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 272
+[27-Aug-2024 11:07:48 UTC] PHP Warning:  Undefined variable $total_deposited in /home/bitasset/public_html/dashboard/index.php on line 272
+[27-Aug-2024 11:07:48 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 458
+[27-Aug-2024 11:07:48 UTC] PHP Warning:  Undefined variable $ref_bonus in /home/bitasset/public_html/dashboard/index.php on line 458
+[27-Aug-2024 11:07:48 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/index.php on line 550
+[27-Aug-2024 11:07:48 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/index.php on line 632
+[27-Aug-2024 11:07:48 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[27-Aug-2024 11:07:48 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[27-Aug-2024 11:07:48 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[27-Aug-2024 11:07:48 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[27-Aug-2024 11:07:48 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[27-Aug-2024 11:07:48 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[27-Aug-2024 11:07:48 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[27-Aug-2024 11:07:48 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[27-Aug-2024 11:07:48 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[27-Aug-2024 11:07:48 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[27-Aug-2024 11:07:48 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[27-Aug-2024 11:07:48 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[27-Aug-2024 11:07:48 UTC] PHP Warning:  Undefined array key "logout" in /home/bitasset/public_html/dashboard/auth.php on line 3
+[27-Aug-2024 16:40:44 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 111
+[27-Aug-2024 16:40:44 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/variables.php on line 113
+[27-Aug-2024 16:40:44 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 116
+[27-Aug-2024 16:40:44 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 119
+[27-Aug-2024 16:40:44 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 122
+[27-Aug-2024 16:40:44 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 125
+[27-Aug-2024 16:40:44 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/variables.php on line 128
+[27-Aug-2024 16:40:44 UTC] PHP Warning:  Undefined variable $image in /home/bitasset/public_html/dashboard/header.php on line 232
+[27-Aug-2024 16:40:44 UTC] PHP Warning:  Undefined variable $image in /home/bitasset/public_html/dashboard/header.php on line 241
+[27-Aug-2024 16:40:44 UTC] PHP Warning:  Undefined variable $ver_status in /home/bitasset/public_html/dashboard/header.php on line 246
+[27-Aug-2024 16:40:44 UTC] PHP Warning:  Undefined variable $activated in /home/bitasset/public_html/dashboard/index.php on line 106
+[27-Aug-2024 16:40:44 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 201
+[27-Aug-2024 16:40:44 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 237
+[27-Aug-2024 16:40:44 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 272
+[27-Aug-2024 16:40:44 UTC] PHP Warning:  Undefined variable $total_deposited in /home/bitasset/public_html/dashboard/index.php on line 272
+[27-Aug-2024 16:40:44 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 458
+[27-Aug-2024 16:40:44 UTC] PHP Warning:  Undefined variable $ref_bonus in /home/bitasset/public_html/dashboard/index.php on line 458
+[27-Aug-2024 16:40:44 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/index.php on line 550
+[27-Aug-2024 16:40:44 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/index.php on line 632
+[27-Aug-2024 16:40:44 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[27-Aug-2024 16:40:44 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[27-Aug-2024 16:40:44 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[27-Aug-2024 16:40:44 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[27-Aug-2024 16:40:44 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[27-Aug-2024 16:40:44 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[27-Aug-2024 16:40:44 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[27-Aug-2024 16:40:44 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[27-Aug-2024 16:40:44 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[27-Aug-2024 16:40:44 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[27-Aug-2024 16:40:44 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[27-Aug-2024 16:40:44 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[27-Aug-2024 16:40:44 UTC] PHP Warning:  Undefined array key "logout" in /home/bitasset/public_html/dashboard/auth.php on line 3
+[27-Aug-2024 16:40:47 UTC] PHP Warning:  Undefined array key "logout" in /home/bitasset/public_html/dashboard/auth.php on line 3
+[27-Aug-2024 16:40:47 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[27-Aug-2024 16:40:55 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[27-Aug-2024 16:41:02 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[27-Aug-2024 16:41:04 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[27-Aug-2024 16:41:04 UTC] PHP Warning:  Undefined array key "ticker" in /home/bitasset/public_html/dashboard/create-portifolio.php on line 23
+[27-Aug-2024 16:41:04 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[27-Aug-2024 16:41:04 UTC] PHP Warning:  Undefined array key 7 in /home/bitasset/public_html/dashboard/assets.php on line 1326
+[27-Aug-2024 16:41:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/bitasset/public_html/dashboard/assets.php on line 1326
+[27-Aug-2024 16:41:05 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[27-Aug-2024 16:41:12 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[27-Aug-2024 16:41:12 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[27-Aug-2024 16:41:25 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[27-Aug-2024 16:41:27 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[27-Aug-2024 18:05:58 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 111
+[27-Aug-2024 18:05:58 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/variables.php on line 113
+[27-Aug-2024 18:05:58 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 116
+[27-Aug-2024 18:05:58 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 119
+[27-Aug-2024 18:05:58 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 122
+[27-Aug-2024 18:05:58 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 125
+[27-Aug-2024 18:05:58 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/variables.php on line 128
+[27-Aug-2024 18:05:58 UTC] PHP Warning:  Undefined variable $image in /home/bitasset/public_html/dashboard/header.php on line 232
+[27-Aug-2024 18:05:58 UTC] PHP Warning:  Undefined variable $image in /home/bitasset/public_html/dashboard/header.php on line 241
+[27-Aug-2024 18:05:58 UTC] PHP Warning:  Undefined variable $ver_status in /home/bitasset/public_html/dashboard/header.php on line 246
+[27-Aug-2024 18:05:58 UTC] PHP Warning:  Undefined variable $activated in /home/bitasset/public_html/dashboard/index.php on line 106
+[27-Aug-2024 18:05:58 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 201
+[27-Aug-2024 18:05:58 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 237
+[27-Aug-2024 18:05:58 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 272
+[27-Aug-2024 18:05:58 UTC] PHP Warning:  Undefined variable $total_deposited in /home/bitasset/public_html/dashboard/index.php on line 272
+[27-Aug-2024 18:05:58 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 458
+[27-Aug-2024 18:05:58 UTC] PHP Warning:  Undefined variable $ref_bonus in /home/bitasset/public_html/dashboard/index.php on line 458
+[27-Aug-2024 18:05:58 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/index.php on line 550
+[27-Aug-2024 18:05:58 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/index.php on line 632
+[27-Aug-2024 18:05:58 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[27-Aug-2024 18:05:58 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[27-Aug-2024 18:05:58 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[27-Aug-2024 18:05:58 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[27-Aug-2024 18:05:58 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[27-Aug-2024 18:05:58 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[27-Aug-2024 18:05:58 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[27-Aug-2024 18:05:58 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[27-Aug-2024 18:05:58 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[27-Aug-2024 18:05:58 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[27-Aug-2024 18:05:58 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[27-Aug-2024 18:05:58 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[27-Aug-2024 18:05:58 UTC] PHP Warning:  Undefined array key "logout" in /home/bitasset/public_html/dashboard/auth.php on line 3
+[27-Aug-2024 18:06:09 UTC] PHP Warning:  Undefined array key "logout" in /home/bitasset/public_html/dashboard/auth.php on line 3
+[27-Aug-2024 18:06:09 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[27-Aug-2024 18:06:13 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 111
+[27-Aug-2024 18:06:13 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/variables.php on line 113
+[27-Aug-2024 18:06:13 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 116
+[27-Aug-2024 18:06:13 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 119
+[27-Aug-2024 18:06:13 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 122
+[27-Aug-2024 18:06:13 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 125
+[27-Aug-2024 18:06:13 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/variables.php on line 128
+[27-Aug-2024 18:06:13 UTC] PHP Warning:  Undefined variable $image in /home/bitasset/public_html/dashboard/header.php on line 232
+[27-Aug-2024 18:06:13 UTC] PHP Warning:  Undefined variable $image in /home/bitasset/public_html/dashboard/header.php on line 241
+[27-Aug-2024 18:06:13 UTC] PHP Warning:  Undefined variable $ver_status in /home/bitasset/public_html/dashboard/header.php on line 246
+[27-Aug-2024 18:06:13 UTC] PHP Warning:  Undefined variable $activated in /home/bitasset/public_html/dashboard/index.php on line 106
+[27-Aug-2024 18:06:13 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 201
+[27-Aug-2024 18:06:13 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 237
+[27-Aug-2024 18:06:13 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 272
+[27-Aug-2024 18:06:13 UTC] PHP Warning:  Undefined variable $total_deposited in /home/bitasset/public_html/dashboard/index.php on line 272
+[27-Aug-2024 18:06:13 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 458
+[27-Aug-2024 18:06:13 UTC] PHP Warning:  Undefined variable $ref_bonus in /home/bitasset/public_html/dashboard/index.php on line 458
+[27-Aug-2024 18:06:13 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/index.php on line 550
+[27-Aug-2024 18:06:13 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/index.php on line 632
+[27-Aug-2024 18:06:13 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[27-Aug-2024 18:06:13 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[27-Aug-2024 18:06:13 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[27-Aug-2024 18:06:13 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[27-Aug-2024 18:06:13 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[27-Aug-2024 18:06:13 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[27-Aug-2024 18:06:13 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[27-Aug-2024 18:06:13 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[27-Aug-2024 18:06:13 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[27-Aug-2024 18:06:13 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[27-Aug-2024 18:06:13 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[27-Aug-2024 18:06:13 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[27-Aug-2024 18:06:13 UTC] PHP Warning:  Undefined array key "logout" in /home/bitasset/public_html/dashboard/auth.php on line 3
+[27-Aug-2024 18:14:04 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 111
+[27-Aug-2024 18:14:04 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/variables.php on line 113
+[27-Aug-2024 18:14:04 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 116
+[27-Aug-2024 18:14:04 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 119
+[27-Aug-2024 18:14:04 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 122
+[27-Aug-2024 18:14:04 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 125
+[27-Aug-2024 18:14:04 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/variables.php on line 128
+[27-Aug-2024 18:14:04 UTC] PHP Warning:  Undefined variable $image in /home/bitasset/public_html/dashboard/header.php on line 232
+[27-Aug-2024 18:14:04 UTC] PHP Warning:  Undefined variable $image in /home/bitasset/public_html/dashboard/header.php on line 241
+[27-Aug-2024 18:14:04 UTC] PHP Warning:  Undefined variable $ver_status in /home/bitasset/public_html/dashboard/header.php on line 246
+[27-Aug-2024 18:14:04 UTC] PHP Warning:  Undefined variable $activated in /home/bitasset/public_html/dashboard/index.php on line 106
+[27-Aug-2024 18:14:04 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 201
+[27-Aug-2024 18:14:04 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 237
+[27-Aug-2024 18:14:04 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 272
+[27-Aug-2024 18:14:04 UTC] PHP Warning:  Undefined variable $total_deposited in /home/bitasset/public_html/dashboard/index.php on line 272
+[27-Aug-2024 18:14:04 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 458
+[27-Aug-2024 18:14:04 UTC] PHP Warning:  Undefined variable $ref_bonus in /home/bitasset/public_html/dashboard/index.php on line 458
+[27-Aug-2024 18:14:04 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/index.php on line 550
+[27-Aug-2024 18:14:04 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/index.php on line 632
+[27-Aug-2024 18:14:04 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[27-Aug-2024 18:14:04 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[27-Aug-2024 18:14:04 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[27-Aug-2024 18:14:04 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[27-Aug-2024 18:14:04 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[27-Aug-2024 18:14:04 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[27-Aug-2024 18:14:04 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[27-Aug-2024 18:14:04 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[27-Aug-2024 18:14:04 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[27-Aug-2024 18:14:04 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[27-Aug-2024 18:14:04 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[27-Aug-2024 18:14:04 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[27-Aug-2024 18:14:04 UTC] PHP Warning:  Undefined array key "logout" in /home/bitasset/public_html/dashboard/auth.php on line 3
+[28-Aug-2024 09:28:07 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 111
+[28-Aug-2024 09:28:07 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/variables.php on line 113
+[28-Aug-2024 09:28:07 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 116
+[28-Aug-2024 09:28:07 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 119
+[28-Aug-2024 09:28:07 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 122
+[28-Aug-2024 09:28:07 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 125
+[28-Aug-2024 09:28:07 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/variables.php on line 128
+[28-Aug-2024 09:28:07 UTC] PHP Warning:  Undefined variable $image in /home/bitasset/public_html/dashboard/header.php on line 232
+[28-Aug-2024 09:28:07 UTC] PHP Warning:  Undefined variable $image in /home/bitasset/public_html/dashboard/header.php on line 241
+[28-Aug-2024 09:28:07 UTC] PHP Warning:  Undefined variable $ver_status in /home/bitasset/public_html/dashboard/header.php on line 246
+[28-Aug-2024 09:28:07 UTC] PHP Warning:  Undefined variable $activated in /home/bitasset/public_html/dashboard/index.php on line 106
+[28-Aug-2024 09:28:07 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 201
+[28-Aug-2024 09:28:07 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 237
+[28-Aug-2024 09:28:07 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 272
+[28-Aug-2024 09:28:07 UTC] PHP Warning:  Undefined variable $total_deposited in /home/bitasset/public_html/dashboard/index.php on line 272
+[28-Aug-2024 09:28:07 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 458
+[28-Aug-2024 09:28:07 UTC] PHP Warning:  Undefined variable $ref_bonus in /home/bitasset/public_html/dashboard/index.php on line 458
+[28-Aug-2024 09:28:07 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/index.php on line 550
+[28-Aug-2024 09:28:07 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/index.php on line 632
+[28-Aug-2024 09:28:07 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[28-Aug-2024 09:28:07 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[28-Aug-2024 09:28:07 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[28-Aug-2024 09:28:07 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[28-Aug-2024 09:28:07 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[28-Aug-2024 09:28:07 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[28-Aug-2024 09:28:07 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[28-Aug-2024 09:28:07 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[28-Aug-2024 09:28:07 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[28-Aug-2024 09:28:07 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[28-Aug-2024 09:28:07 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[28-Aug-2024 09:28:07 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[28-Aug-2024 09:28:07 UTC] PHP Warning:  Undefined array key "logout" in /home/bitasset/public_html/dashboard/auth.php on line 3
+[28-Aug-2024 09:28:11 UTC] PHP Warning:  Undefined array key "logout" in /home/bitasset/public_html/dashboard/auth.php on line 3
+[28-Aug-2024 09:28:11 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[28-Aug-2024 09:28:21 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[28-Aug-2024 09:28:28 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[28-Aug-2024 09:28:31 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[28-Aug-2024 09:31:58 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[29-Aug-2024 04:27:20 UTC] PHP Warning:  Undefined array key "logout" in /home/bitasset/public_html/dashboard/auth.php on line 3
+[29-Aug-2024 04:27:20 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[29-Aug-2024 04:27:45 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[29-Aug-2024 04:27:56 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[29-Aug-2024 04:27:59 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[29-Aug-2024 04:28:09 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[29-Aug-2024 04:28:15 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[29-Aug-2024 04:28:19 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[29-Aug-2024 04:28:28 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[29-Aug-2024 04:28:36 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[29-Aug-2024 20:23:44 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 111
+[29-Aug-2024 20:23:44 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/variables.php on line 113
+[29-Aug-2024 20:23:44 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 116
+[29-Aug-2024 20:23:44 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 119
+[29-Aug-2024 20:23:44 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 122
+[29-Aug-2024 20:23:44 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 125
+[29-Aug-2024 20:23:44 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/variables.php on line 128
+[29-Aug-2024 20:23:44 UTC] PHP Warning:  Undefined variable $image in /home/bitasset/public_html/dashboard/header.php on line 232
+[29-Aug-2024 20:23:44 UTC] PHP Warning:  Undefined variable $image in /home/bitasset/public_html/dashboard/header.php on line 241
+[29-Aug-2024 20:23:44 UTC] PHP Warning:  Undefined variable $ver_status in /home/bitasset/public_html/dashboard/header.php on line 246
+[29-Aug-2024 20:23:44 UTC] PHP Warning:  Undefined variable $activated in /home/bitasset/public_html/dashboard/index.php on line 106
+[29-Aug-2024 20:23:44 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 201
+[29-Aug-2024 20:23:44 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 237
+[29-Aug-2024 20:23:44 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 272
+[29-Aug-2024 20:23:44 UTC] PHP Warning:  Undefined variable $total_deposited in /home/bitasset/public_html/dashboard/index.php on line 272
+[29-Aug-2024 20:23:44 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 458
+[29-Aug-2024 20:23:44 UTC] PHP Warning:  Undefined variable $ref_bonus in /home/bitasset/public_html/dashboard/index.php on line 458
+[29-Aug-2024 20:23:44 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/index.php on line 550
+[29-Aug-2024 20:23:44 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/index.php on line 632
+[29-Aug-2024 20:23:44 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[29-Aug-2024 20:23:44 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[29-Aug-2024 20:23:44 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[29-Aug-2024 20:23:44 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[29-Aug-2024 20:23:44 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[29-Aug-2024 20:23:44 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[29-Aug-2024 20:23:44 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[29-Aug-2024 20:23:44 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[29-Aug-2024 20:23:44 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[29-Aug-2024 20:23:44 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[29-Aug-2024 20:23:44 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[29-Aug-2024 20:23:44 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[29-Aug-2024 20:23:44 UTC] PHP Warning:  Undefined array key "logout" in /home/bitasset/public_html/dashboard/auth.php on line 3
+[29-Aug-2024 20:23:55 UTC] PHP Warning:  Undefined array key "logout" in /home/bitasset/public_html/dashboard/auth.php on line 3
+[29-Aug-2024 20:23:55 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[29-Aug-2024 20:24:03 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[29-Aug-2024 20:24:06 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[29-Aug-2024 20:24:11 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[29-Aug-2024 20:24:32 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[29-Aug-2024 20:24:52 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[29-Aug-2024 20:24:52 UTC] PHP Warning:  Undefined array key "ticker" in /home/bitasset/public_html/dashboard/create-portifolio.php on line 23
+[29-Aug-2024 20:24:52 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[29-Aug-2024 20:24:52 UTC] PHP Warning:  Undefined array key 7 in /home/bitasset/public_html/dashboard/assets.php on line 1326
+[29-Aug-2024 20:24:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/bitasset/public_html/dashboard/assets.php on line 1326
+[29-Aug-2024 20:24:55 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[29-Aug-2024 20:25:05 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[29-Aug-2024 20:25:05 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[29-Aug-2024 20:25:26 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[29-Aug-2024 20:25:30 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[29-Aug-2024 20:25:34 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[29-Aug-2024 20:25:44 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[29-Aug-2024 20:28:03 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[29-Aug-2024 20:34:16 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[29-Aug-2024 20:34:22 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[29-Aug-2024 20:34:50 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[29-Aug-2024 20:35:00 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[29-Aug-2024 20:35:02 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 111
+[29-Aug-2024 20:35:02 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/variables.php on line 113
+[29-Aug-2024 20:35:02 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 116
+[29-Aug-2024 20:35:02 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 119
+[29-Aug-2024 20:35:02 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 122
+[29-Aug-2024 20:35:02 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 125
+[29-Aug-2024 20:35:02 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/variables.php on line 128
+[29-Aug-2024 20:35:02 UTC] PHP Warning:  Undefined variable $image in /home/bitasset/public_html/dashboard/header.php on line 232
+[29-Aug-2024 20:35:02 UTC] PHP Warning:  Undefined variable $image in /home/bitasset/public_html/dashboard/header.php on line 241
+[29-Aug-2024 20:35:02 UTC] PHP Warning:  Undefined variable $ver_status in /home/bitasset/public_html/dashboard/header.php on line 246
+[29-Aug-2024 20:35:02 UTC] PHP Warning:  Undefined variable $activated in /home/bitasset/public_html/dashboard/index.php on line 106
+[29-Aug-2024 20:35:02 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 201
+[29-Aug-2024 20:35:02 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 237
+[29-Aug-2024 20:35:02 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 272
+[29-Aug-2024 20:35:02 UTC] PHP Warning:  Undefined variable $total_deposited in /home/bitasset/public_html/dashboard/index.php on line 272
+[29-Aug-2024 20:35:02 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 458
+[29-Aug-2024 20:35:02 UTC] PHP Warning:  Undefined variable $ref_bonus in /home/bitasset/public_html/dashboard/index.php on line 458
+[29-Aug-2024 20:35:02 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/index.php on line 550
+[29-Aug-2024 20:35:02 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/index.php on line 632
+[29-Aug-2024 20:35:02 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[29-Aug-2024 20:35:02 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[29-Aug-2024 20:35:02 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[29-Aug-2024 20:35:02 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[29-Aug-2024 20:35:02 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[29-Aug-2024 20:35:02 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[29-Aug-2024 20:35:02 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[29-Aug-2024 20:35:02 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[29-Aug-2024 20:35:02 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[29-Aug-2024 20:35:02 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[29-Aug-2024 20:35:02 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[29-Aug-2024 20:35:02 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[29-Aug-2024 20:35:02 UTC] PHP Warning:  Undefined array key "logout" in /home/bitasset/public_html/dashboard/auth.php on line 3
+[29-Aug-2024 20:36:45 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[29-Aug-2024 20:36:52 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[29-Aug-2024 20:41:01 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 111
+[29-Aug-2024 20:41:01 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/variables.php on line 113
+[29-Aug-2024 20:41:01 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 116
+[29-Aug-2024 20:41:01 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 119
+[29-Aug-2024 20:41:01 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 122
+[29-Aug-2024 20:41:01 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 125
+[29-Aug-2024 20:41:01 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/variables.php on line 128
+[29-Aug-2024 20:41:01 UTC] PHP Warning:  Undefined variable $image in /home/bitasset/public_html/dashboard/header.php on line 232
+[29-Aug-2024 20:41:01 UTC] PHP Warning:  Undefined variable $image in /home/bitasset/public_html/dashboard/header.php on line 241
+[29-Aug-2024 20:41:01 UTC] PHP Warning:  Undefined variable $ver_status in /home/bitasset/public_html/dashboard/header.php on line 246
+[29-Aug-2024 20:41:01 UTC] PHP Warning:  Undefined array key "amount" in /home/bitasset/public_html/dashboard/plans.php on line 7
+[29-Aug-2024 20:41:01 UTC] PHP Warning:  Undefined array key "portfolioName" in /home/bitasset/public_html/dashboard/plans.php on line 8
+[29-Aug-2024 20:41:01 UTC] PHP Warning:  Undefined array key "user_id" in /home/bitasset/public_html/dashboard/plans.php on line 15
+[29-Aug-2024 20:41:01 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/plans.php on line 63
+[29-Aug-2024 20:41:01 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/plans.php on line 66
+[29-Aug-2024 20:41:01 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/plans.php on line 106
+[29-Aug-2024 20:41:01 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/plans.php on line 119
+[29-Aug-2024 20:41:01 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/plans.php on line 106
+[29-Aug-2024 20:41:01 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/plans.php on line 119
+[29-Aug-2024 20:41:01 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/plans.php on line 145
+[29-Aug-2024 20:41:01 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/plans.php on line 158
+[29-Aug-2024 20:41:01 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/plans.php on line 161
+[29-Aug-2024 20:41:01 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/plans.php on line 145
+[29-Aug-2024 20:41:01 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/plans.php on line 158
+[29-Aug-2024 20:41:01 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/plans.php on line 161
+[29-Aug-2024 20:41:01 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/plans.php on line 145
+[29-Aug-2024 20:41:01 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/plans.php on line 158
+[29-Aug-2024 20:41:01 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/plans.php on line 161
+[29-Aug-2024 20:41:01 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/plans.php on line 145
+[29-Aug-2024 20:41:01 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/plans.php on line 158
+[29-Aug-2024 20:41:01 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/plans.php on line 161
+[29-Aug-2024 20:41:01 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/plans.php on line 145
+[29-Aug-2024 20:41:01 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/plans.php on line 158
+[29-Aug-2024 20:41:01 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/plans.php on line 161
+[29-Aug-2024 20:41:01 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/plans.php on line 145
+[29-Aug-2024 20:41:01 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/plans.php on line 158
+[29-Aug-2024 20:41:01 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/plans.php on line 161
+[29-Aug-2024 20:41:01 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/plans.php on line 145
+[29-Aug-2024 20:41:01 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/plans.php on line 158
+[29-Aug-2024 20:41:01 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/plans.php on line 161
+[29-Aug-2024 20:41:01 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/plans.php on line 145
+[29-Aug-2024 20:41:01 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/plans.php on line 158
+[29-Aug-2024 20:41:01 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/plans.php on line 161
+[29-Aug-2024 20:41:02 UTC] PHP Warning:  Undefined array key "logout" in /home/bitasset/public_html/dashboard/auth.php on line 3
+[29-Aug-2024 20:45:03 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 111
+[29-Aug-2024 20:45:03 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/variables.php on line 113
+[29-Aug-2024 20:45:03 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 116
+[29-Aug-2024 20:45:03 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 119
+[29-Aug-2024 20:45:03 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 122
+[29-Aug-2024 20:45:03 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 125
+[29-Aug-2024 20:45:03 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/variables.php on line 128
+[29-Aug-2024 20:45:03 UTC] PHP Warning:  Undefined variable $image in /home/bitasset/public_html/dashboard/header.php on line 232
+[29-Aug-2024 20:45:03 UTC] PHP Warning:  Undefined variable $image in /home/bitasset/public_html/dashboard/header.php on line 241
+[29-Aug-2024 20:45:03 UTC] PHP Warning:  Undefined variable $ver_status in /home/bitasset/public_html/dashboard/header.php on line 246
+[29-Aug-2024 20:45:03 UTC] PHP Warning:  Undefined variable $activated in /home/bitasset/public_html/dashboard/index.php on line 106
+[29-Aug-2024 20:45:03 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 201
+[29-Aug-2024 20:45:03 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 237
+[29-Aug-2024 20:45:03 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 272
+[29-Aug-2024 20:45:03 UTC] PHP Warning:  Undefined variable $total_deposited in /home/bitasset/public_html/dashboard/index.php on line 272
+[29-Aug-2024 20:45:03 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 458
+[29-Aug-2024 20:45:03 UTC] PHP Warning:  Undefined variable $ref_bonus in /home/bitasset/public_html/dashboard/index.php on line 458
+[29-Aug-2024 20:45:03 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/index.php on line 550
+[29-Aug-2024 20:45:03 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/index.php on line 632
+[29-Aug-2024 20:45:03 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[29-Aug-2024 20:45:03 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[29-Aug-2024 20:45:03 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[29-Aug-2024 20:45:03 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[29-Aug-2024 20:45:03 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[29-Aug-2024 20:45:03 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[29-Aug-2024 20:45:03 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[29-Aug-2024 20:45:03 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[29-Aug-2024 20:45:03 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[29-Aug-2024 20:45:03 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[29-Aug-2024 20:45:03 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[29-Aug-2024 20:45:03 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[29-Aug-2024 20:45:04 UTC] PHP Warning:  Undefined array key "logout" in /home/bitasset/public_html/dashboard/auth.php on line 3
+[29-Aug-2024 20:45:20 UTC] PHP Warning:  Undefined array key "logout" in /home/bitasset/public_html/dashboard/auth.php on line 3
+[29-Aug-2024 20:45:20 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[29-Aug-2024 20:45:38 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[29-Aug-2024 20:46:57 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[29-Aug-2024 20:48:34 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[29-Aug-2024 20:49:44 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[29-Aug-2024 20:50:39 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[29-Aug-2024 20:51:01 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[29-Aug-2024 20:52:01 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[29-Aug-2024 20:52:32 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[29-Aug-2024 20:52:36 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[29-Aug-2024 20:52:38 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[29-Aug-2024 20:53:21 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[29-Aug-2024 20:53:36 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[29-Aug-2024 20:53:46 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[29-Aug-2024 20:53:48 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[29-Aug-2024 20:53:49 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[29-Aug-2024 20:54:10 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[29-Aug-2024 20:54:16 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[29-Aug-2024 20:54:41 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[29-Aug-2024 20:54:47 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[29-Aug-2024 20:54:48 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[29-Aug-2024 20:54:48 UTC] PHP Warning:  Undefined array key "ticker" in /home/bitasset/public_html/dashboard/create-portifolio.php on line 23
+[29-Aug-2024 20:54:48 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[29-Aug-2024 20:54:48 UTC] PHP Warning:  Undefined array key 7 in /home/bitasset/public_html/dashboard/assets.php on line 1326
+[29-Aug-2024 20:54:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/bitasset/public_html/dashboard/assets.php on line 1326
+[29-Aug-2024 20:54:51 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[29-Aug-2024 20:54:53 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 111
+[29-Aug-2024 20:54:53 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/variables.php on line 113
+[29-Aug-2024 20:54:53 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 116
+[29-Aug-2024 20:54:53 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 119
+[29-Aug-2024 20:54:53 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 122
+[29-Aug-2024 20:54:53 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 125
+[29-Aug-2024 20:54:53 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/variables.php on line 128
+[29-Aug-2024 20:54:53 UTC] PHP Warning:  Undefined variable $image in /home/bitasset/public_html/dashboard/header.php on line 232
+[29-Aug-2024 20:54:53 UTC] PHP Warning:  Undefined variable $image in /home/bitasset/public_html/dashboard/header.php on line 241
+[29-Aug-2024 20:54:53 UTC] PHP Warning:  Undefined variable $ver_status in /home/bitasset/public_html/dashboard/header.php on line 246
+[29-Aug-2024 20:54:53 UTC] PHP Warning:  Undefined variable $currency in /home/bitasset/public_html/dashboard/create-portifolio.php on line 61
+[29-Aug-2024 20:54:53 UTC] PHP Warning:  Undefined array key "logout" in /home/bitasset/public_html/dashboard/auth.php on line 3
+[29-Aug-2024 20:55:09 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[29-Aug-2024 20:55:09 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[29-Aug-2024 20:55:15 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[29-Aug-2024 20:55:48 UTC] PHP Warning:  Undefined array key "ticker" in /home/bitasset/public_html/dashboard/create-portifolio.php on line 23
+[29-Aug-2024 20:55:48 UTC] PHP Warning:  Undefined array key 7 in /home/bitasset/public_html/dashboard/assets.php on line 1326
+[29-Aug-2024 20:55:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/bitasset/public_html/dashboard/assets.php on line 1326
+[29-Aug-2024 20:57:24 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 111
+[29-Aug-2024 20:57:24 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/variables.php on line 113
+[29-Aug-2024 20:57:24 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 116
+[29-Aug-2024 20:57:24 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 119
+[29-Aug-2024 20:57:24 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 122
+[29-Aug-2024 20:57:24 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 125
+[29-Aug-2024 20:57:24 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/variables.php on line 128
+[29-Aug-2024 20:57:24 UTC] PHP Warning:  Undefined variable $image in /home/bitasset/public_html/dashboard/header.php on line 232
+[29-Aug-2024 20:57:24 UTC] PHP Warning:  Undefined variable $image in /home/bitasset/public_html/dashboard/header.php on line 241
+[29-Aug-2024 20:57:24 UTC] PHP Warning:  Undefined variable $ver_status in /home/bitasset/public_html/dashboard/header.php on line 246
+[29-Aug-2024 20:57:24 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/wallet-withdraw.php on line 9
+[29-Aug-2024 20:57:24 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/wallet-withdraw.php on line 33
+[29-Aug-2024 20:57:24 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/wallet-withdraw.php on line 50
+[29-Aug-2024 20:57:24 UTC] PHP Warning:  Undefined array key "logout" in /home/bitasset/public_html/dashboard/auth.php on line 3
+[29-Aug-2024 21:08:43 UTC] PHP Warning:  Undefined array key "logout" in /home/bitasset/public_html/dashboard/auth.php on line 3
+[29-Aug-2024 21:08:43 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[29-Aug-2024 21:09:12 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[29-Aug-2024 21:09:32 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[29-Aug-2024 21:09:35 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[29-Aug-2024 21:09:39 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[30-Aug-2024 20:33:09 UTC] PHP Warning:  Undefined array key "logout" in /home/bitasset/public_html/dashboard/auth.php on line 3
+[30-Aug-2024 20:34:05 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 111
+[30-Aug-2024 20:34:05 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/variables.php on line 113
+[30-Aug-2024 20:34:05 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 116
+[30-Aug-2024 20:34:05 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 119
+[30-Aug-2024 20:34:05 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 122
+[30-Aug-2024 20:34:05 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 125
+[30-Aug-2024 20:34:05 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/variables.php on line 128
+[30-Aug-2024 20:34:05 UTC] PHP Warning:  Undefined variable $image in /home/bitasset/public_html/dashboard/header.php on line 232
+[30-Aug-2024 20:34:05 UTC] PHP Warning:  Undefined variable $image in /home/bitasset/public_html/dashboard/header.php on line 241
+[30-Aug-2024 20:34:05 UTC] PHP Warning:  Undefined variable $ver_status in /home/bitasset/public_html/dashboard/header.php on line 246
+[30-Aug-2024 20:34:05 UTC] PHP Warning:  Undefined variable $activated in /home/bitasset/public_html/dashboard/index.php on line 106
+[30-Aug-2024 20:34:05 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 201
+[30-Aug-2024 20:34:05 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 237
+[30-Aug-2024 20:34:05 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 272
+[30-Aug-2024 20:34:05 UTC] PHP Warning:  Undefined variable $total_deposited in /home/bitasset/public_html/dashboard/index.php on line 272
+[30-Aug-2024 20:34:05 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 458
+[30-Aug-2024 20:34:05 UTC] PHP Warning:  Undefined variable $ref_bonus in /home/bitasset/public_html/dashboard/index.php on line 458
+[30-Aug-2024 20:34:05 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/index.php on line 550
+[30-Aug-2024 20:34:05 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/index.php on line 632
+[30-Aug-2024 20:34:05 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[30-Aug-2024 20:34:05 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[30-Aug-2024 20:34:05 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[30-Aug-2024 20:34:05 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[30-Aug-2024 20:34:05 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[30-Aug-2024 20:34:05 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[30-Aug-2024 20:34:05 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[30-Aug-2024 20:34:05 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[30-Aug-2024 20:34:05 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[30-Aug-2024 20:34:05 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[30-Aug-2024 20:34:05 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[30-Aug-2024 20:34:05 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[30-Aug-2024 20:34:05 UTC] PHP Warning:  Undefined array key "logout" in /home/bitasset/public_html/dashboard/auth.php on line 3
+[31-Aug-2024 09:56:15 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 111
+[31-Aug-2024 09:56:15 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/variables.php on line 113
+[31-Aug-2024 09:56:15 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 116
+[31-Aug-2024 09:56:15 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 119
+[31-Aug-2024 09:56:15 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 122
+[31-Aug-2024 09:56:15 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 125
+[31-Aug-2024 09:56:15 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/variables.php on line 128
+[31-Aug-2024 09:56:15 UTC] PHP Warning:  Undefined variable $image in /home/bitasset/public_html/dashboard/header.php on line 232
+[31-Aug-2024 09:56:15 UTC] PHP Warning:  Undefined variable $image in /home/bitasset/public_html/dashboard/header.php on line 241
+[31-Aug-2024 09:56:15 UTC] PHP Warning:  Undefined variable $ver_status in /home/bitasset/public_html/dashboard/header.php on line 246
+[31-Aug-2024 09:56:15 UTC] PHP Warning:  Undefined variable $activated in /home/bitasset/public_html/dashboard/index.php on line 106
+[31-Aug-2024 09:56:15 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 201
+[31-Aug-2024 09:56:15 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 237
+[31-Aug-2024 09:56:15 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 272
+[31-Aug-2024 09:56:15 UTC] PHP Warning:  Undefined variable $total_deposited in /home/bitasset/public_html/dashboard/index.php on line 272
+[31-Aug-2024 09:56:15 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 458
+[31-Aug-2024 09:56:15 UTC] PHP Warning:  Undefined variable $ref_bonus in /home/bitasset/public_html/dashboard/index.php on line 458
+[31-Aug-2024 09:56:15 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/index.php on line 550
+[31-Aug-2024 09:56:15 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/index.php on line 632
+[31-Aug-2024 09:56:15 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[31-Aug-2024 09:56:15 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[31-Aug-2024 09:56:15 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[31-Aug-2024 09:56:15 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[31-Aug-2024 09:56:15 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[31-Aug-2024 09:56:15 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[31-Aug-2024 09:56:15 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[31-Aug-2024 09:56:15 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[31-Aug-2024 09:56:15 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[31-Aug-2024 09:56:15 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[31-Aug-2024 09:56:15 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[31-Aug-2024 09:56:15 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[31-Aug-2024 09:56:16 UTC] PHP Warning:  Undefined array key "logout" in /home/bitasset/public_html/dashboard/auth.php on line 3
+[31-Aug-2024 16:44:43 UTC] PHP Warning:  Undefined array key "logout" in /home/bitasset/public_html/dashboard/auth.php on line 3
+[31-Aug-2024 16:44:44 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[31-Aug-2024 16:44:50 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[31-Aug-2024 16:44:52 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[31-Aug-2024 16:44:52 UTC] PHP Warning:  Undefined array key "ticker" in /home/bitasset/public_html/dashboard/create-portifolio.php on line 23
+[31-Aug-2024 16:44:52 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[31-Aug-2024 16:44:52 UTC] PHP Warning:  Undefined array key 7 in /home/bitasset/public_html/dashboard/assets.php on line 1326
+[31-Aug-2024 16:44:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/bitasset/public_html/dashboard/assets.php on line 1326
+[01-Sep-2024 22:25:55 UTC] PHP Warning:  Undefined array key "logout" in /home/bitasset/public_html/dashboard/auth.php on line 3
+[01-Sep-2024 22:26:13 UTC] PHP Warning:  Undefined array key "logout" in /home/bitasset/public_html/dashboard/auth.php on line 3
+[01-Sep-2024 22:26:13 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[01-Sep-2024 22:26:15 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[01-Sep-2024 22:26:18 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[01-Sep-2024 22:26:21 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[01-Sep-2024 22:26:40 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[02-Sep-2024 11:30:41 UTC] PHP Warning:  Undefined array key "logout" in /home/bitasset/public_html/dashboard/auth.php on line 3
+[02-Sep-2024 11:30:42 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[02-Sep-2024 11:31:06 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[02-Sep-2024 11:31:16 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[02-Sep-2024 11:35:04 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[02-Sep-2024 11:55:11 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[02-Sep-2024 11:55:11 UTC] PHP Warning:  Undefined array key 7 in /home/bitasset/public_html/dashboard/assets.php on line 1326
+[02-Sep-2024 11:55:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/bitasset/public_html/dashboard/assets.php on line 1326
+[02-Sep-2024 11:55:14 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[02-Sep-2024 11:55:17 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[02-Sep-2024 11:55:19 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[02-Sep-2024 11:55:37 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[02-Sep-2024 11:55:43 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[02-Sep-2024 14:27:20 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 111
+[02-Sep-2024 14:27:20 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/variables.php on line 113
+[02-Sep-2024 14:27:20 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 116
+[02-Sep-2024 14:27:20 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 119
+[02-Sep-2024 14:27:20 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 122
+[02-Sep-2024 14:27:20 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 125
+[02-Sep-2024 14:27:20 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/variables.php on line 128
+[02-Sep-2024 14:27:20 UTC] PHP Warning:  Undefined variable $image in /home/bitasset/public_html/dashboard/header.php on line 232
+[02-Sep-2024 14:27:20 UTC] PHP Warning:  Undefined variable $image in /home/bitasset/public_html/dashboard/header.php on line 241
+[02-Sep-2024 14:27:20 UTC] PHP Warning:  Undefined variable $ver_status in /home/bitasset/public_html/dashboard/header.php on line 246
+[02-Sep-2024 14:27:20 UTC] PHP Warning:  Undefined variable $activated in /home/bitasset/public_html/dashboard/index.php on line 106
+[02-Sep-2024 14:27:20 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 201
+[02-Sep-2024 14:27:20 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 237
+[02-Sep-2024 14:27:20 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 272
+[02-Sep-2024 14:27:20 UTC] PHP Warning:  Undefined variable $total_deposited in /home/bitasset/public_html/dashboard/index.php on line 272
+[02-Sep-2024 14:27:20 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 458
+[02-Sep-2024 14:27:20 UTC] PHP Warning:  Undefined variable $ref_bonus in /home/bitasset/public_html/dashboard/index.php on line 458
+[02-Sep-2024 14:27:20 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/index.php on line 550
+[02-Sep-2024 14:27:20 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/index.php on line 632
+[02-Sep-2024 14:27:20 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[02-Sep-2024 14:27:20 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[02-Sep-2024 14:27:20 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[02-Sep-2024 14:27:20 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[02-Sep-2024 14:27:20 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[02-Sep-2024 14:27:20 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[02-Sep-2024 14:27:20 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[02-Sep-2024 14:27:20 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[02-Sep-2024 14:27:20 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[02-Sep-2024 14:27:20 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[02-Sep-2024 14:27:20 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[02-Sep-2024 14:27:20 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[02-Sep-2024 14:27:20 UTC] PHP Warning:  Undefined array key "logout" in /home/bitasset/public_html/dashboard/auth.php on line 3
+[02-Sep-2024 14:27:31 UTC] PHP Warning:  Undefined array key "logout" in /home/bitasset/public_html/dashboard/auth.php on line 3
+[02-Sep-2024 14:32:46 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 111
+[02-Sep-2024 14:32:46 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/variables.php on line 113
+[02-Sep-2024 14:32:46 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 116
+[02-Sep-2024 14:32:46 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 119
+[02-Sep-2024 14:32:46 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 122
+[02-Sep-2024 14:32:46 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 125
+[02-Sep-2024 14:32:46 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/variables.php on line 128
+[02-Sep-2024 14:32:46 UTC] PHP Warning:  Undefined variable $image in /home/bitasset/public_html/dashboard/header.php on line 232
+[02-Sep-2024 14:32:46 UTC] PHP Warning:  Undefined variable $image in /home/bitasset/public_html/dashboard/header.php on line 241
+[02-Sep-2024 14:32:46 UTC] PHP Warning:  Undefined variable $ver_status in /home/bitasset/public_html/dashboard/header.php on line 246
+[02-Sep-2024 14:32:46 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/portifolios.php on line 28
+[02-Sep-2024 14:32:46 UTC] PHP Warning:  Undefined variable $total_portfolio_balance in /home/bitasset/public_html/dashboard/portifolios.php on line 28
+[02-Sep-2024 14:32:46 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/portifolios.php on line 29
+[02-Sep-2024 14:32:46 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/portifolios.php on line 52
+[02-Sep-2024 14:32:46 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/portifolios.php on line 109
+[02-Sep-2024 14:32:46 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/portifolios.php on line 114
+[02-Sep-2024 14:32:46 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/portifolios.php on line 126
+[02-Sep-2024 14:32:46 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/portifolios.php on line 131
+[02-Sep-2024 14:32:46 UTC] PHP Warning:  Undefined variable $currency in /home/bitasset/public_html/dashboard/portifolios.php on line 166
+[02-Sep-2024 14:32:46 UTC] PHP Warning:  Undefined variable $currency in /home/bitasset/public_html/dashboard/portifolios.php on line 171
+[02-Sep-2024 14:32:46 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/portifolios.php on line 278
+[02-Sep-2024 14:32:46 UTC] PHP Warning:  Undefined array key "logout" in /home/bitasset/public_html/dashboard/auth.php on line 3
+[02-Sep-2024 18:12:23 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 111
+[02-Sep-2024 18:12:23 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/variables.php on line 113
+[02-Sep-2024 18:12:23 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 116
+[02-Sep-2024 18:12:23 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 119
+[02-Sep-2024 18:12:23 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 122
+[02-Sep-2024 18:12:23 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 125
+[02-Sep-2024 18:12:23 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/variables.php on line 128
+[02-Sep-2024 18:12:23 UTC] PHP Warning:  Undefined variable $image in /home/bitasset/public_html/dashboard/header.php on line 232
+[02-Sep-2024 18:12:23 UTC] PHP Warning:  Undefined variable $image in /home/bitasset/public_html/dashboard/header.php on line 241
+[02-Sep-2024 18:12:23 UTC] PHP Warning:  Undefined variable $ver_status in /home/bitasset/public_html/dashboard/header.php on line 246
+[02-Sep-2024 18:12:23 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/portifolios.php on line 28
+[02-Sep-2024 18:12:23 UTC] PHP Warning:  Undefined variable $total_portfolio_balance in /home/bitasset/public_html/dashboard/portifolios.php on line 28
+[02-Sep-2024 18:12:23 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/portifolios.php on line 29
+[02-Sep-2024 18:12:23 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/portifolios.php on line 52
+[02-Sep-2024 18:12:23 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/portifolios.php on line 109
+[02-Sep-2024 18:12:23 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/portifolios.php on line 114
+[02-Sep-2024 18:12:23 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/portifolios.php on line 126
+[02-Sep-2024 18:12:23 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/portifolios.php on line 131
+[02-Sep-2024 18:12:23 UTC] PHP Warning:  Undefined variable $currency in /home/bitasset/public_html/dashboard/portifolios.php on line 166
+[02-Sep-2024 18:12:23 UTC] PHP Warning:  Undefined variable $currency in /home/bitasset/public_html/dashboard/portifolios.php on line 171
+[02-Sep-2024 18:12:23 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/portifolios.php on line 278
+[02-Sep-2024 18:12:23 UTC] PHP Warning:  Undefined array key "logout" in /home/bitasset/public_html/dashboard/auth.php on line 3
+[02-Sep-2024 20:29:52 UTC] PHP Warning:  Undefined array key "logout" in /home/bitasset/public_html/dashboard/auth.php on line 3
+[02-Sep-2024 20:29:52 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[02-Sep-2024 20:30:11 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[03-Sep-2024 10:22:36 UTC] PHP Warning:  Undefined array key "logout" in /home/bitasset/public_html/dashboard/auth.php on line 3
+[03-Sep-2024 13:06:04 UTC] PHP Warning:  Undefined array key "logout" in /home/bitasset/public_html/dashboard/auth.php on line 3
+[03-Sep-2024 13:06:04 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[03-Sep-2024 13:06:08 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[03-Sep-2024 13:06:16 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[03-Sep-2024 13:06:24 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[03-Sep-2024 13:06:25 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[03-Sep-2024 13:29:42 UTC] PHP Warning:  Undefined array key "logout" in /home/bitasset/public_html/dashboard/auth.php on line 3
+[03-Sep-2024 15:50:35 UTC] PHP Warning:  Undefined array key "logout" in /home/bitasset/public_html/dashboard/auth.php on line 3
+[03-Sep-2024 15:50:36 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[03-Sep-2024 15:50:41 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[03-Sep-2024 15:50:51 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[03-Sep-2024 15:51:04 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[03-Sep-2024 15:51:05 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[03-Sep-2024 17:14:44 UTC] PHP Warning:  Undefined array key "logout" in /home/bitasset/public_html/dashboard/auth.php on line 3
+[03-Sep-2024 17:14:44 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[03-Sep-2024 17:14:52 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[03-Sep-2024 17:15:00 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[03-Sep-2024 17:15:05 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[03-Sep-2024 17:15:14 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[03-Sep-2024 17:15:22 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[03-Sep-2024 17:15:27 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[03-Sep-2024 17:15:33 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[03-Sep-2024 17:15:37 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[03-Sep-2024 17:15:38 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[03-Sep-2024 18:05:49 UTC] PHP Warning:  Undefined array key "logout" in /home/bitasset/public_html/dashboard/auth.php on line 3
+[03-Sep-2024 18:36:40 UTC] PHP Warning:  Undefined array key "logout" in /home/bitasset/public_html/dashboard/auth.php on line 3
+[03-Sep-2024 18:36:40 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[03-Sep-2024 18:36:44 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[03-Sep-2024 18:36:50 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[03-Sep-2024 18:36:56 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[03-Sep-2024 18:36:57 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[03-Sep-2024 19:49:09 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 111
+[03-Sep-2024 19:49:09 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/variables.php on line 113
+[03-Sep-2024 19:49:09 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 116
+[03-Sep-2024 19:49:09 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 119
+[03-Sep-2024 19:49:09 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 122
+[03-Sep-2024 19:49:09 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 125
+[03-Sep-2024 19:49:09 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/variables.php on line 128
+[03-Sep-2024 19:49:09 UTC] PHP Warning:  Undefined variable $image in /home/bitasset/public_html/dashboard/header.php on line 232
+[03-Sep-2024 19:49:09 UTC] PHP Warning:  Undefined variable $image in /home/bitasset/public_html/dashboard/header.php on line 241
+[03-Sep-2024 19:49:09 UTC] PHP Warning:  Undefined variable $ver_status in /home/bitasset/public_html/dashboard/header.php on line 246
+[03-Sep-2024 19:49:09 UTC] PHP Warning:  Undefined variable $activated in /home/bitasset/public_html/dashboard/index.php on line 106
+[03-Sep-2024 19:49:09 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 201
+[03-Sep-2024 19:49:09 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 237
+[03-Sep-2024 19:49:09 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 272
+[03-Sep-2024 19:49:09 UTC] PHP Warning:  Undefined variable $total_deposited in /home/bitasset/public_html/dashboard/index.php on line 272
+[03-Sep-2024 19:49:09 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 458
+[03-Sep-2024 19:49:09 UTC] PHP Warning:  Undefined variable $ref_bonus in /home/bitasset/public_html/dashboard/index.php on line 458
+[03-Sep-2024 19:49:09 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/index.php on line 550
+[03-Sep-2024 19:49:09 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/index.php on line 632
+[03-Sep-2024 19:49:09 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[03-Sep-2024 19:49:09 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[03-Sep-2024 19:49:09 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[03-Sep-2024 19:49:09 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[03-Sep-2024 19:49:09 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[03-Sep-2024 19:49:09 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[03-Sep-2024 19:49:09 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[03-Sep-2024 19:49:09 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[03-Sep-2024 19:49:09 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[03-Sep-2024 19:49:09 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[03-Sep-2024 19:49:09 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[03-Sep-2024 19:49:09 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[03-Sep-2024 19:49:09 UTC] PHP Warning:  Undefined array key "logout" in /home/bitasset/public_html/dashboard/auth.php on line 3
+[03-Sep-2024 20:16:25 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 111
+[03-Sep-2024 20:16:25 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/variables.php on line 113
+[03-Sep-2024 20:16:25 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 116
+[03-Sep-2024 20:16:25 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 119
+[03-Sep-2024 20:16:25 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 122
+[03-Sep-2024 20:16:25 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/variables.php on line 125
+[03-Sep-2024 20:16:25 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/variables.php on line 128
+[03-Sep-2024 20:16:25 UTC] PHP Warning:  Undefined variable $image in /home/bitasset/public_html/dashboard/header.php on line 232
+[03-Sep-2024 20:16:25 UTC] PHP Warning:  Undefined variable $image in /home/bitasset/public_html/dashboard/header.php on line 241
+[03-Sep-2024 20:16:25 UTC] PHP Warning:  Undefined variable $ver_status in /home/bitasset/public_html/dashboard/header.php on line 246
+[03-Sep-2024 20:16:25 UTC] PHP Warning:  Undefined variable $activated in /home/bitasset/public_html/dashboard/index.php on line 106
+[03-Sep-2024 20:16:25 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 201
+[03-Sep-2024 20:16:25 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 237
+[03-Sep-2024 20:16:25 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 272
+[03-Sep-2024 20:16:25 UTC] PHP Warning:  Undefined variable $total_deposited in /home/bitasset/public_html/dashboard/index.php on line 272
+[03-Sep-2024 20:16:25 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 458
+[03-Sep-2024 20:16:25 UTC] PHP Warning:  Undefined variable $ref_bonus in /home/bitasset/public_html/dashboard/index.php on line 458
+[03-Sep-2024 20:16:25 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/index.php on line 550
+[03-Sep-2024 20:16:25 UTC] PHP Warning:  Undefined variable $id in /home/bitasset/public_html/dashboard/index.php on line 632
+[03-Sep-2024 20:16:25 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[03-Sep-2024 20:16:25 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[03-Sep-2024 20:16:25 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[03-Sep-2024 20:16:25 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[03-Sep-2024 20:16:25 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[03-Sep-2024 20:16:25 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[03-Sep-2024 20:16:25 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[03-Sep-2024 20:16:25 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[03-Sep-2024 20:16:25 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[03-Sep-2024 20:16:25 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[03-Sep-2024 20:16:25 UTC] PHP Warning:  Undefined variable $currency_rate in /home/bitasset/public_html/dashboard/index.php on line 638
+[03-Sep-2024 20:16:25 UTC] PHP Warning:  Undefined variable $symbol in /home/bitasset/public_html/dashboard/index.php on line 660
+[03-Sep-2024 20:16:26 UTC] PHP Warning:  Undefined array key "logout" in /home/bitasset/public_html/dashboard/auth.php on line 3
+[03-Sep-2024 20:16:45 UTC] PHP Warning:  Undefined array key "logout" in /home/bitasset/public_html/dashboard/auth.php on line 3
+[03-Sep-2024 20:20:36 UTC] PHP Warning:  Undefined array key "logout" in /home/bitasset/public_html/dashboard/auth.php on line 3
+[03-Sep-2024 20:20:36 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[03-Sep-2024 20:20:56 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[03-Sep-2024 20:21:04 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[03-Sep-2024 20:21:05 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[03-Sep-2024 20:21:43 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[03-Sep-2024 20:21:48 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[03-Sep-2024 20:21:49 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[03-Sep-2024 20:22:04 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[03-Sep-2024 20:22:08 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[03-Sep-2024 20:22:09 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[03-Sep-2024 20:22:31 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[03-Sep-2024 20:22:34 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[03-Sep-2024 20:22:38 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[03-Sep-2024 20:22:41 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[03-Sep-2024 20:22:41 UTC] PHP Warning:  Undefined array key "ticker" in /home/bitasset/public_html/dashboard/create-portifolio.php on line 23
+[03-Sep-2024 20:22:41 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[03-Sep-2024 20:22:41 UTC] PHP Warning:  Undefined array key 7 in /home/bitasset/public_html/dashboard/assets.php on line 1326
+[03-Sep-2024 20:22:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/bitasset/public_html/dashboard/assets.php on line 1326
+[03-Sep-2024 20:22:44 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[03-Sep-2024 20:22:56 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[03-Sep-2024 20:22:56 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[03-Sep-2024 20:23:22 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[03-Sep-2024 20:23:22 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[03-Sep-2024 20:23:22 UTC] PHP Warning:  Undefined array key 7 in /home/bitasset/public_html/dashboard/assets.php on line 1326
+[03-Sep-2024 20:23:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/bitasset/public_html/dashboard/assets.php on line 1326
+[03-Sep-2024 20:23:23 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102
+[03-Sep-2024 20:23:24 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in /home/bitasset/public_html/dashboard/variables.php on line 102

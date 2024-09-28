@@ -1,0 +1,1 @@
+[{"change_p":0.563,"close":103.65,"code":"IAI"},{"change_p":0.306,"close":150.96,"code":"RSP"},{"change_p":-1.517,"close":27.8,"code":"EWCO"},{"change_p":0.233,"close":408.04,"code":"SPY"},{"change_p":0.218,"close":409.96,"code":"IVV"},{"change_p":0.243,"close":375.02,"code":"VOO"},{"change_p":-0.656,"close":299.7,"code":"QQQ"},{"change_p":0.181,"close":205.01,"code":"VTI"}]

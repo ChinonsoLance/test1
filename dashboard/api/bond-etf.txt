@@ -1,0 +1,1 @@
+[{"change_p":-3.567,"close":8.38,"code":"TMF"},{"change_p":-0.324,"close":73.92,"code":"ICVT"},{"change_p":0.199,"close":25.23,"code":"FLTR"}]

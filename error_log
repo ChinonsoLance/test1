@@ -1,0 +1,51 @@
+[24-Mar-2024 11:40:45 UTC] PHP Warning:  Undefined variable $ref in /home/bitasset/public_html/register.php on line 254
+[24-Mar-2024 11:40:45 UTC] PHP Warning:  Undefined variable $ref_bonus in /home/bitasset/public_html/register.php on line 254
+[24-Mar-2024 11:40:45 UTC] PHP Warning:  Undefined variable $ref_id in /home/bitasset/public_html/register.php on line 265
+[24-Mar-2024 11:56:47 UTC] PHP Warning:  Undefined variable $ref in /home/bitasset/public_html/register.php on line 254
+[24-Mar-2024 11:56:47 UTC] PHP Warning:  Undefined variable $ref_bonus in /home/bitasset/public_html/register.php on line 254
+[24-Mar-2024 11:56:47 UTC] PHP Warning:  Undefined variable $ref_id in /home/bitasset/public_html/register.php on line 265
+[02-Apr-2024 02:48:33 UTC] PHP Warning:  Undefined variable $ref in /home/bitasset/public_html/register.php on line 254
+[02-Apr-2024 02:48:33 UTC] PHP Warning:  Undefined variable $ref_bonus in /home/bitasset/public_html/register.php on line 254
+[02-Apr-2024 02:48:33 UTC] PHP Warning:  Undefined variable $ref_id in /home/bitasset/public_html/register.php on line 265
+[06-Apr-2024 21:32:09 UTC] PHP Warning:  Undefined variable $ref in /home/bitasset/public_html/register.php on line 254
+[06-Apr-2024 21:32:09 UTC] PHP Warning:  Undefined variable $ref_bonus in /home/bitasset/public_html/register.php on line 254
+[06-Apr-2024 21:32:09 UTC] PHP Warning:  Undefined variable $ref_id in /home/bitasset/public_html/register.php on line 265
+[17-Apr-2024 03:32:35 UTC] PHP Warning:  Undefined variable $ref in /home/bitasset/public_html/register.php on line 254
+[17-Apr-2024 03:32:35 UTC] PHP Warning:  Undefined variable $ref_bonus in /home/bitasset/public_html/register.php on line 254
+[17-Apr-2024 03:32:35 UTC] PHP Warning:  Undefined variable $ref_id in /home/bitasset/public_html/register.php on line 265
+[09-May-2024 01:25:48 UTC] PHP Warning:  Undefined variable $ref in /home/bitasset/public_html/register.php on line 254
+[09-May-2024 01:25:48 UTC] PHP Warning:  Undefined variable $ref_bonus in /home/bitasset/public_html/register.php on line 254
+[09-May-2024 01:25:48 UTC] PHP Warning:  Undefined variable $ref_id in /home/bitasset/public_html/register.php on line 265
+[16-May-2024 18:42:45 UTC] PHP Warning:  Undefined variable $ref in /home/bitasset/public_html/register.php on line 254
+[16-May-2024 18:42:45 UTC] PHP Warning:  Undefined variable $ref_bonus in /home/bitasset/public_html/register.php on line 254
+[16-May-2024 18:42:45 UTC] PHP Warning:  Undefined variable $ref_id in /home/bitasset/public_html/register.php on line 265
+[23-May-2024 01:06:32 UTC] PHP Warning:  Undefined variable $ref in /home/bitasset/public_html/register.php on line 254
+[23-May-2024 01:06:32 UTC] PHP Warning:  Undefined variable $ref_bonus in /home/bitasset/public_html/register.php on line 254
+[23-May-2024 01:06:32 UTC] PHP Warning:  Undefined variable $ref_id in /home/bitasset/public_html/register.php on line 265
+[23-May-2024 01:06:32 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (to): incomna@mailcos.site\r\n in /home/bitasset/public_html/PHPMailer/vendor/phpmailer/phpmailer/src/PHPMailer.php:1157
+Stack trace:
+#0 [internal function]: PHPMailer\PHPMailer\PHPMailer->addAnAddress('to', 'incomna@mailcos...', '')
+#1 /home/bitasset/public_html/PHPMailer/vendor/phpmailer/phpmailer/src/PHPMailer.php(1116): call_user_func_array(Array, Array)
+#2 /home/bitasset/public_html/PHPMailer/vendor/phpmailer/phpmailer/src/PHPMailer.php(1014): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress('to', 'incomna@mailcos...', '')
+#3 /home/bitasset/public_html/mail.php(76): PHPMailer\PHPMailer\PHPMailer->addAddress('incomna@mailcos...')
+#4 /home/bitasset/public_html/register.php(281): sendmail('incomna@mailcos...', 'OTP Verificatio...', '<p>Your one tim...')
+#5 {main}
+  thrown in /home/bitasset/public_html/PHPMailer/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1157
+[14-Jun-2024 22:50:50 UTC] PHP Warning:  Undefined variable $ref in /home/bitasset/public_html/register.php on line 254
+[14-Jun-2024 22:50:50 UTC] PHP Warning:  Undefined variable $ref_bonus in /home/bitasset/public_html/register.php on line 254
+[14-Jun-2024 22:50:50 UTC] PHP Warning:  Undefined variable $ref_id in /home/bitasset/public_html/register.php on line 265
+[16-Jun-2024 10:40:49 UTC] PHP Warning:  Undefined variable $ref in /home/bitasset/public_html/register.php on line 254
+[16-Jun-2024 10:40:49 UTC] PHP Warning:  Undefined variable $ref_bonus in /home/bitasset/public_html/register.php on line 254
+[16-Jun-2024 10:40:49 UTC] PHP Warning:  Undefined variable $ref_id in /home/bitasset/public_html/register.php on line 265
+[18-Jun-2024 17:27:51 UTC] PHP Warning:  Undefined variable $ref in /home/bitasset/public_html/register.php on line 254
+[18-Jun-2024 17:27:51 UTC] PHP Warning:  Undefined variable $ref_bonus in /home/bitasset/public_html/register.php on line 254
+[18-Jun-2024 17:27:51 UTC] PHP Warning:  Undefined variable $ref_id in /home/bitasset/public_html/register.php on line 265
+[19-Jul-2024 03:20:53 UTC] PHP Warning:  Undefined variable $ref in /home/bitasset/public_html/register.php on line 254
+[19-Jul-2024 03:20:53 UTC] PHP Warning:  Undefined variable $ref_bonus in /home/bitasset/public_html/register.php on line 254
+[19-Jul-2024 03:20:53 UTC] PHP Warning:  Undefined variable $ref_id in /home/bitasset/public_html/register.php on line 265
+[21-Jul-2024 21:59:44 UTC] PHP Warning:  Undefined variable $ref in /home/bitasset/public_html/register.php on line 254
+[21-Jul-2024 21:59:44 UTC] PHP Warning:  Undefined variable $ref_bonus in /home/bitasset/public_html/register.php on line 254
+[21-Jul-2024 21:59:44 UTC] PHP Warning:  Undefined variable $ref_id in /home/bitasset/public_html/register.php on line 265
+[01-Sep-2024 22:25:39 UTC] PHP Warning:  Undefined variable $ref in /home/bitasset/public_html/register.php on line 254
+[01-Sep-2024 22:25:39 UTC] PHP Warning:  Undefined variable $ref_bonus in /home/bitasset/public_html/register.php on line 254
+[01-Sep-2024 22:25:39 UTC] PHP Warning:  Undefined variable $ref_id in /home/bitasset/public_html/register.php on line 265

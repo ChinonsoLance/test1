@@ -1,0 +1,6 @@
+[07-Mar-2024 18:19:42 UTC] PHP Warning:  require(../config.php): Failed to open stream: No such file or directory in /home/bitasset/public_html/dashboard/dashboard/forgot-password.php on line 3
+[07-Mar-2024 18:19:42 UTC] PHP Warning:  require(../config.php): Failed to open stream: No such file or directory in /home/bitasset/public_html/dashboard/dashboard/forgot-password.php on line 3
+[07-Mar-2024 18:19:42 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/bitasset/public_html/dashboard/dashboard/forgot-password.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/bitasset/public_html/dashboard/dashboard/forgot-password.php on line 3

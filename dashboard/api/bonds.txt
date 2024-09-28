@@ -1,0 +1,1 @@
+[{"change_p":1.656,"close":3.744,"code":"^TNX"},{"change_p":2.217,"close":3.827,"code":"^TYX"},{"change_p":2.217,"close":3.827,"code":"^TYX"},{"change_p":2.217,"close":3.827,"code":"^TYX"},{"change_p":1.082,"close":3.924,"code":"^FVX"},{"change_p":0.477,"close":4.635,"code":"^IRX"}]

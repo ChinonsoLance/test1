@@ -1,0 +1,1 @@
+[{"change_p":-0.154,"close":1875.6,"code":"GC=F"},{"change_p":-0.601,"close":22.01,"code":"SI=F"},{"change_p":2.229,"close":79.8,"code":"CL=F"},{"change_p":2.343,"close":86.48,"code":"BZ=F"}]
